@@ -8,6 +8,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 
 function Home2() {
   return (
@@ -30,14 +31,25 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                <b className="purple">Web Applications</b> and
+                <b className="purple"> Products </b>
+                using a <b className="purple">MERN Stack {""}</b>
+                and deploying them on &nbsp;
+                <b className="purple">AWS</b> and &nbsp;
+                <b className="purple">Heroku</b>.
+                <br />
               </i>
               <br />
+              I also interested in <b className="purple">Competitive Programming</b> and <b className="purple">Problem Solving</b> in <b className="purple">Leetcode</b> and <b className="purple">Codechef</b>.
               <br />
+              <br />
+
+
+
+
+
+
+
               Whenever possible, I also apply my passion for developing products
               with <b className="purple">Node.js</b> and
               <i>
@@ -67,7 +79,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/shane6123"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,17 +89,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://leetcode.com/shane6123"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <SiLeetcode />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/shane-alam-742a671a4/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +109,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/__shane_alam__/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
